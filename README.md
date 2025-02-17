@@ -26,11 +26,3 @@ As a new iOS developer in the sector, I am working on projects using SwiftUI and
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sahinkarahan"><img src="https://github-readme-stats.vercel.app/api?username=sahinkarahan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="sahinkarahan's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sahinkarahan/Cash-Transfer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkarahan&repo=Cash-Transfer&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/sahinkarahan/HabitTracker-1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkarahan&repo=HabitTracker-1&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sahinkarahan/ExpenseTracker-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkarahan&repo=ExpenseTracker-1&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en" /></a></div>
